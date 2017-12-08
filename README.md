@@ -1,6 +1,5 @@
-# Influence Poster
+# Visualizing Childhood Creative Influences: A Poster
 
-------------
 
 I've grown up with a lot of influences, mostly related to reading.
 We redid our house in 2015 and when doing so, I decided not to use my
@@ -17,8 +16,6 @@ However, the master file is so large that I'm keeping it in Dropbox,
 the original location.
 
 ## An Explanation
-
-------------------
 
 The idea was to visualize what I've grown up reading and/or watching 
 from my childhood. My primary influences, as you can see, are comics.
