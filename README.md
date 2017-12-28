@@ -30,7 +30,7 @@ The second idea is that this is my adaptation of the *Where's Wally* concept.
 Find the Pink Panther!
 
 
-![Influence Poster](/img/poster_cleaned_resized.png)
+![Influence Poster](/img/poster_cleaned_small.png)
 
 ### Disclaimer
 
